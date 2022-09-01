@@ -720,8 +720,9 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
-*⌚Time Server : ${time}*
-*📚 List-Menu Bot :*
+*⌚ᴛɪᴍᴇ sᴇʀᴠᴇʀ : ${time}*
+*📚 ʟɪsᴛ-ᴍᴇɴᴜ : Ｚｅｒｏ•ᴮᴼᵀ
+
 
 ╭─❒ 「 Bot Info 」 
 │○ !owner
@@ -1709,17 +1710,10 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ !sound70
 
 ╭─❒ 「 TqTo 」 
-│○ My God
-│○ My Parents
-│○ Fatih A.
-│○ Ferdi
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ Rashid
-│○ ZeeoneOfc
-│○ Penyedia Module
-╰❒ And All Support
+│○ Ｗａｈａｂ Ａｔａｒｉａｎｕ
+│○ Ｉｎｏｒｙ-Ｃｈａｎ
+│○ Ｙａｅｌ Ｔｏｍｂｉ
+╰❒ 
     `
 }
 
@@ -1734,8 +1728,8 @@ exports.rules = (prefix) => {
 🗯️ Bot tidak atau lambat merespon ?
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+🗯️ Saya mau sewa/donasi
+➡️ Terima kasih mau sewa/donasi ketik Donasi kalau mau lihat listnya
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1766,8 +1760,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+ᴍᴀᴜ ʟɪʜᴀᴛ ᴀᴘᴀ ᴋᴀᴋ
+sᴄ ɪɴɪ ᴘʀɪᴠᴀᴛᴇ ʏᴀ ᴋᴀᴋ
 `
 }
 exports.tos = (ownernomer) => {
